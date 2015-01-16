@@ -4,10 +4,10 @@ This is our beta API, which gives you access to the majority of our customers re
 
 ## Developers
 
-**This API is not in production**  
+**This API is in private beta**
 
-I'm following an RDD style of development, and have only written the documentation before I write any code. If you've been invited to view this documentation, please have a read through and let me know if you see anything that I have missed anything fundimental or if something doesn't make sense. It makes sense for me to get the documentation perfect before I wrote code so that mistakes/improvements can be made early on. This is my first attempt at designing/developing a public API so any feedback is appriciated.
+We've followed an RDD style of development, and have written the documentation before any code. If you've been invited to view this documentation, please have a read through and let us know if you see anything that we have missed anything fundimental or if something doesn't make sense.
 
 Also, pull requests are welcome.
 
-For the most recent source, please view gh-pages branch. Revision 1.2 currently being written there.
+For the most recent documentation source, please view gh-pages branch.
