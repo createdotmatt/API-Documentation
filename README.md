@@ -2,6 +2,14 @@
 
 This is our beta API, which gives you access to the majority of our customers resources within the application. We plan on releasing with most of the planned resources, but some will follow in a later release, this is outlined in the introduction.
 
+## Raising Issues or Suggestions
+Issues with the API or Documentation can be raised as issues on this repository ([click here](https://github.com/createdotnet/API-Documentation/issues)). They'll be labelled appropriately and can be discussed openly here.
+
+* Don't post any sensitive or personal data.
+* Try and keep issues seperate from each other.
+
+
+
 ## Developers
 
 **This API is in private beta**
