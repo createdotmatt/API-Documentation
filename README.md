@@ -16,6 +16,7 @@ For more information on how issues work, check out Github's [Issues guide](https
 * Paste error output or logs in your issue or in a Gist. If pasting them in the issue, wrap it in three backticks: ``` so that it renders nicely.
 * Don't post any sensitive or personal data.
 * Try and keep individual issues seperate from each other.
+* If you need to reference your account in the issue, do so with your primary domain name. 
 
 
 
