@@ -7,7 +7,7 @@ Issues with the API or Documentation can be raised as issues on this repository 
 
 For more information on how issues work, check out Github's [Issues guide](https://guides.github.com/features/issues/).
 
-### Issues Pro Tips
+### Issues Tips
 
 * Check existing issues for your issue. Duplicating an issue is slower for both parties so search through open and closed issues to see if what you’re running into has been addressed already.
 * Be clear about what your problem is: what was the expected outcome, what happened instead? Detail how someone else can recreate the problem.
