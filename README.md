@@ -5,8 +5,17 @@ This is our beta API, which gives you access to the majority of our customers re
 ## Raising Issues or Suggestions
 Issues with the API or Documentation can be raised as issues on this repository ([click here](https://github.com/createdotnet/API-Documentation/issues)). They'll be labelled appropriately and can be discussed openly here.
 
+For more information on how issues work, check out Github's [Issues guide](https://guides.github.com/features/issues/).
+
+### Issues Pro Tips
+
+* Check existing issues for your issue. Duplicating an issue is slower for both parties so search through open and closed issues to see if what you’re running into has been addressed already.
+* Be clear about what your problem is: what was the expected outcome, what happened instead? Detail how someone else can recreate the problem.
+* Link to demos recreating the problem on things like JSFiddle or CodePen.
+* Include system details like what the browser, library or operating system you’re using and its version.
+* Paste error output or logs in your issue or in a Gist. If pasting them in the issue, wrap it in three backticks: ``` so that it renders nicely.
 * Don't post any sensitive or personal data.
-* Try and keep issues seperate from each other.
+* Try and keep individual issues seperate from each other.
 
 
 
