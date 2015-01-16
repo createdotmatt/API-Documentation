@@ -1,4 +1,4 @@
-#Create. API Documentation
+#Create. API
 
 This is our beta API, which gives you access to the majority of our customers resources within the application. We plan on releasing with most of the planned resources, but some will follow in a later release, this is outlined in the introduction.
 
