@@ -2,6 +2,9 @@
 
 This is our beta API, which gives you access to the majority of our customers resources within the application. We will be rolling out different resources as they're needed. Currently we're focusing on Shop related resources (Products, Orders e.t.c.)
 
+## Read the Documentation
+The documentation for the API can be found here; http://developers.create.net/API-Documentation/
+
 ## Raising Issues or Suggestions
 Issues with the API or Documentation can be raised as issues on this repository ([click here](https://github.com/createdotnet/API-Documentation/issues)). They'll be labelled appropriately and can be discussed openly here.
 
